@@ -37,4 +37,10 @@ The project is written in Python 2.7 , and is still a test-version . A more opti
                change directory to "fscraper" using : cd fscraper
   
 3) Use : "scrapy crawl monsterbot" to crawl the page
+
+
+Once Done , the result data is stored in  "monster.json"
+
+# Limitations
+ The script is only able to scrape the first page , Im working onto fix this 
    
